@@ -5,7 +5,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: 'TESTE#1'
+name: 'TESTE#AUREL_#1'
 layout_spectrum: 0.021206963574513793
 typography_spectrum: 0.3849324395414442
 color:
@@ -33,4 +33,5 @@ purpose:
 author:
   name: AUREL
   email: drpaulosilvaesousa@gmail.com
+  url: 'http://paulosilvaesousa.com'
 github: true
