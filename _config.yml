@@ -1,0 +1,36 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: 'TESTE#1'
+layout_spectrum: 0.021206963574513793
+typography_spectrum: 0.3849324395414442
+color:
+  brandStrength: 0.08121944242157042
+  lightness: 0.27308369730599225
+  saturation: 0.49768290552310646
+  rhythmicContrast: 0.25749313877895474
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+content: []
+title: OPORTO &YOU Real State Investment Managements
+description: 'Porto, Portugal, CEE'
+url: 'https://thegrid.ai/aurel.site.com'
+purpose:
+  - type: contact
+    url: 'mailto:drpaulosilvaesousa@gmail.com'
+    label: Contact me
+  - type: external
+    url: 'http://paulosilvaesousa.com'
+    label: CORPORATE
+author:
+  name: AUREL
+  email: drpaulosilvaesousa@gmail.com
+github: true
