@@ -19,7 +19,32 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eae9d96-2c6b-4505-a7e7-f8694e043eed.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eae9d96-2c6b-4505-a7e7-f8694e043eed.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: OPORTO &YOU Real State Investment Managements
 description: 'Porto, Portugal, CEE'
 url: 'http://aurel.today.com/'
